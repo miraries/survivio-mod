@@ -8303,7 +8303,7 @@ webpackJsonp([1], {
                         this.rot = c.oriToRad(e.ori),
                         this.scale = 1,
                         this.layer = e.layer),
-                        this.ceilingDead = e.ceilingDead,
+                        this.ceilingDead = true,
                         this.ceilingDamaged = e.ceilingDamaged,
                         this.occupied = e.occupied,
                         this.hasPuzzle = e.hasPuzzle,

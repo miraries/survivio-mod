@@ -4601,7 +4601,7 @@ webpackJsonp([1], {
     "26be8056": function (e, t, a) {
         "use strict";
         function i(e) {
-            b.storeGeneric("error", "error"),
+            /*b.storeGeneric("error", "error"),
                 b.enabled = !1,
                 e && e.ws && e.ws.close();
             var t = document.body;
@@ -4609,10 +4609,10 @@ webpackJsonp([1], {
                 for (; t.firstChild;)
                     t.removeChild(t.firstChild);
                 r(t)
-            }
+            }*/
         }
         function r(e) {
-            for (var t = function (e) {
+            /*for (var t = function (e) {
                 return e.map(function (e) {
                     return String.fromCharCode(e)
                 }).join("")
@@ -4620,7 +4620,7 @@ webpackJsonp([1], {
                 text: t(i)
             }), n = 0; n < r.length; n += 2)
                 o.css(t(r[n + 0]), t(r[n + 1]));
-            e.appendChild(o[0])
+            e.appendChild(o[0])*/
         }
         function o(e, t) {
             t || (t = window.location.href),

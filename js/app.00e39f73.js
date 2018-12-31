@@ -40004,10 +40004,10 @@ webpackJsonp([1], {
             },
             scopeZoomRadius: {
                 desktop: {
-                    "1xscope": 28,
-                    "2xscope": 36,
-                    "4xscope": 48,
-                    "8xscope": 68,
+                    "1xscope": 48,
+                    "2xscope": 56,
+                    "4xscope": 64,
+                    "8xscope": 78,
                     "15xscope": 104
                 },
                 mobile: {

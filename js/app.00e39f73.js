@@ -64625,7 +64625,7 @@ webpackJsonp([1], {
                     sprite: "map-bush-01.img",
                     residue: "map-bush-res-01.img",
                     scale: .5,
-                    alpha: .97,
+                    alpha: .1,
                     tint: 16777215,
                     zIdx: 60
                 },
@@ -65792,7 +65792,7 @@ webpackJsonp([1], {
                     sprite: "map-tree-03.img",
                     residue: "map-tree-res-01.img",
                     scale: .7,
-                    alpha: 1,
+                    alpha: 0.1,
                     tint: 16777215,
                     zIdx: 200
                 },
@@ -65849,7 +65849,7 @@ webpackJsonp([1], {
                     sprite: "map-tree-switch-01.img",
                     residue: "map-tree-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.1,
                     zIdx: 10,
                     tint: 16777215
                 },
@@ -65963,7 +65963,7 @@ webpackJsonp([1], {
                     sprite: "map-woodpile-01.img",
                     residue: "map-woodpile-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.1,
                     tint: 16777215,
                     zIdx: 10
                 },

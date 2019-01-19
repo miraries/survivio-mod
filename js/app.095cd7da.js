@@ -4791,7 +4791,7 @@ webpackJsonp([1], {
             , k = 0;
         e.exports = {
             B: i,
-            j: r,
+            j: {},
             getParameterByName: o,
             getCookie: n,
             sanitizeNameInput: s,
